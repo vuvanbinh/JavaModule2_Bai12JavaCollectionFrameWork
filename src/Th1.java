@@ -3,7 +3,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class TestMap {
+public class Th1 {
     public static void main(String[] args) {
         Map<String,Integer> hasMap = new TreeMap<>();
         hasMap.put("Dai",18);
